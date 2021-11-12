@@ -1,6 +1,8 @@
 {
-    "name": "chatBS-app",
+    "name": "chat-bs-app",
     "version": "0.0.1",
     "description": "The great ChatBS app",
-    "dependencies": {}
-  }
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
